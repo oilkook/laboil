@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694675022732",
+    "project_id": "laboil-ffa34",
+    "storage_bucket": "laboil-ffa34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694675022732:android:7d841031bda868134deca9",
+        "android_client_info": {
+          "package_name": "com.example.laboil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694675022732-fr1jnns64tto4cuuv1br9bk80d51f9p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZp95U1zjXGXC2zQt8CB58uShYJYtmRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694675022732-fr1jnns64tto4cuuv1br9bk80d51f9p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
